@@ -1,0 +1,107 @@
+[33mcommit 6beaa7879212c5b30ad23a0e5d26fe3d113e0426[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Joan Sebastián Mendoza Rendón <joamrend@espol.edu.ec>
+Date:   Fri Oct 17 13:07:52 2025 -0500
+
+    Localización de Assets
+
+[33mcommit d99eed9e66da2ef6eabf0da0747ec5b0a8eb94c0[m
+Merge: 4df0f53 72f0b2b
+Author: Joan Sebastián Mendoza Rendón <joamrend@espol.edu.ec>
+Date:   Fri Oct 17 13:03:32 2025 -0500
+
+    Merge rama orden a main
+
+[33mcommit 4df0f531437e9eed8094b9314e1bc87bfc217b5c[m
+Merge: 61b17f1 45e0a71
+Author: Joan Sebastián Mendoza Rendón <joamrend@espol.edu.ec>
+Date:   Fri Oct 17 12:54:42 2025 -0500
+
+    Merge rama titulo a main
+
+[33mcommit 61b17f1ba960d4b7c8fa558d0fcf808dbd2a8caf[m[33m ([m[1;31morigin/feature-semanas-top5[m[33m)[m
+Author: Daniel Rincón <danielrinconher@gmail.com>
+Date:   Fri Oct 17 11:59:00 2025 -0500
+
+    Add feature: Semanas en Top 5
+
+[33mcommit ee26fb956d2cc350446b1dc72f601732e2f58fc3[m
+Author: Kristel-P <krispala@espol.edu.ec>
+Date:   Fri Oct 17 10:37:59 2025 -0500
+
+    Modify README title and include image
+    
+    Updated project title and added an image.
+
+[33mcommit b8f01191a1e39aef417cb6b06035a911e559e599[m
+Author: Kristel-P <krispala@espol.edu.ec>
+Date:   Fri Oct 17 10:18:00 2025 -0500
+
+    Add files via upload
+
+[33mcommit c939ded5e26a6b5a9ded26d0f7aafc10c406d93b[m
+Author: Kristel-P <krispala@espol.edu.ec>
+Date:   Fri Oct 17 09:44:48 2025 -0500
+
+    Conflictos resueltos en PrimaryController
+
+[33mcommit 70cf210778988d6a730a6e65ffa79d29f2470715[m
+Merge: fc75d74 7199b8e
+Author: Kristel-P <krispala@espol.edu.ec>
+Date:   Fri Oct 17 09:42:39 2025 -0500
+
+    Conflictos resueltos en PrimaryController
+
+[33mcommit fc75d744c12cb0d04414f5833fa3b8bf8ad0187e[m
+Merge: 045eac2 e2c0d59
+Author: Kristel-P <krispala@espol.edu.ec>
+Date:   Fri Oct 17 09:30:00 2025 -0500
+
+    Agrego nombre de artista en título y corrijo clase Cancion
+
+[33mcommit e2c0d5930f196c89f3e6da0ce88952b8c8c234ac[m
+Author: Kristel-P <krispala@espol.edu.ec>
+Date:   Fri Oct 17 08:57:13 2025 -0500
+
+    Integrante3
+
+[33mcommit 7199b8ea876943aafa18e8a4a334f7cf5117b50d[m[33m ([m[1;31morigin/artista[m[33m, [m[1;32martista[m[33m)[m
+Author: Kristel-P <krispala@espol.edu.ec>
+Date:   Fri Oct 17 08:55:56 2025 -0500
+
+    Agregando artista antes de los títulos y captura en README
+
+[33mcommit 045eac2fa4db2896aa89f616c513fdceafbe459f[m
+Author: Kristel-P <krispala@espol.edu.ec>
+Date:   Fri Oct 17 04:17:52 2025 -0500
+
+    Agregando código base
+
+[33mcommit 45e0a714777689c725b66ee29ae2c024bf3bb22c[m[33m ([m[1;31morigin/titulo[m[33m, [m[1;32mtitulo[m[33m)[m
+Author: Joan Sebastián Mendoza Rendón <joamrend@espol.edu.ec>
+Date:   Fri Oct 17 04:06:23 2025 -0500
+
+    Modificación Título
+
+[33mcommit 72f0b2b98f426d63004a1b78a4303bbbd141d0dd[m[33m ([m[1;31morigin/orden[m[33m, [m[1;32morden[m[33m)[m
+Author: Guroven <sguzmanc593@gmail.com>
+Date:   Thu Oct 16 22:37:27 2025 -0500
+
+    Agregada imagen del resultado al README
+
+[33mcommit 12e6b621278b36eb18bb1a217b503e52c53cb68d[m
+Author: Guroven <sguzmanc593@gmail.com>
+Date:   Thu Oct 16 22:26:12 2025 -0500
+
+    Orden descendente Top 10
+
+[33mcommit d1503ffa49bb00d70ac8a80534275189b3a6775b[m
+Author: Joan Sebastián Mendoza Rendón <joamrend@espol.edu.ec>
+Date:   Thu Oct 16 13:28:35 2025 -0500
+
+    Agregando código base
+
+[33mcommit 4a7dbdb913924ff367e91a81a6e444aa4d8c9de2[m
+Author: Joan Mendoza <107806374+joamrend@users.noreply.github.com>
+Date:   Thu Oct 16 12:43:36 2025 -0500
+
+    Initial commit
