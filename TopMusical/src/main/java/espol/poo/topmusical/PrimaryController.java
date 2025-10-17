@@ -2,7 +2,6 @@ package espol.poo.topmusical;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collections;
 import javafx.application.Platform;
@@ -32,8 +31,9 @@ public class PrimaryController {
     public void initialize() {
         listaCanciones = Cancion.leerCanciones();
         Collections.sort(listaCanciones);
-        for (Cancion c : listaCanciones ) {
 
+        for (Cancion c : listaCanciones){
+            c.setTitulo(c.getCantante() + " - "+c.getTitulo());
             HBox hb = new HBox(10);//hbox para ubicar info de cada cancion
             Label lbp = new Label(c.getPosActual() + "");
             lbp.setStyle("-fx-font-weight: bold;-fx-font-size: 40;");
@@ -53,8 +53,9 @@ public class PrimaryController {
             hb.setOnMouseClicked(eh -> mostrarHistorial(c));//establecer el evento del click
             vbTop10.getChildren().add(hb);//agregar al vbox
 
-        }
-    }
+        }}
+       
+
 
 
     private void mostrarHistorial(Cancion c) {
