@@ -56,6 +56,9 @@ public class PrimaryController {
         }
         }
 
+       
+
+
 
 
     private void mostrarHistorial(Cancion c) {

@@ -38,8 +38,11 @@ public class Cancion implements Comparable<Cancion> {
     public String getTitulo() {
         return titulo;
     }
+<<<<<<< HEAD
     
 
+=======
+>>>>>>> artista
     public void setTitulo(String titulo) {
         this.titulo = titulo;
     }
@@ -89,15 +92,16 @@ public class Cancion implements Comparable<Cancion> {
         } catch (IOException ex) {
             ex.printStackTrace();
         }
+        return lista;}
 
-        /*  String s = "20,4,3,2,1,1,1,1,1,1,1,1";
-        Cancion c = new Cancion("Anti-Hero","TayLor Swift","antihero.jpg",1,1,1,12,new ArrayList<>(Arrays.asList(s.split(","))));
-        lista.add(c);
-        s = "15,10,7,3,2,1,2,3";
-        Cancion c2 = new Cancion("Unholy","Sam Smith & Kim Petras","unholy.jpg",3,2,1,8,new ArrayList<>(Arrays.asList(s.split(","))));
-        lista.add(c2);*/
-        return lista;
-    }
+        //String s = "20,4,3,2,1,1,1,1,1,1,1,1";
+       // Cancion c = new Cancion("Anti-Hero","TayLor Swift","antihero.jpg",1,1,1,12,new ArrayList<>(Arrays.asList(s.split(","))));
+        //lista.add(c);
+        //s = "15,10,7,3,2,1,2,3";
+       // Cancion c2 = new Cancion("Unholy","Sam Smith & Kim Petras","unholy.jpg",3,2,1,8,new ArrayList<>(Arrays.asList(s.split(","))));
+       // lista.add(c2);
+        //return lista;
+    
 
     @Override
     public int compareTo(Cancion o) {
