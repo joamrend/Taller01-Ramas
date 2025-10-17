@@ -1,4 +1,4 @@
-espol/poo/topmusical/App.class
+espol\poo\topmusical\PrimaryController.class
+espol\poo\topmusical\App.class
 module-info.class
-modelo/Cancion.class
-espol/poo/topmusical/PrimaryController.class
+modelo\Cancion.class
