@@ -38,11 +38,10 @@ public class Cancion implements Comparable<Cancion> {
     public String getTitulo() {
         return titulo;
     }
-<<<<<<< HEAD
     
 
-=======
->>>>>>> artista
+
+
     public void setTitulo(String titulo) {
         this.titulo = titulo;
     }
