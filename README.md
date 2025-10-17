@@ -11,8 +11,8 @@ El presente repositorio de GitHub almacena cada instrucción con su respectiva r
 ## Integrante 1: 'Título'
 ![Modificación del Título de la ventana main](./assets/integrante_1.png)
 
-## Integrante 2: ''
-![]()
+## Integrante 2: 'Orden Descendente'
+![Resultado del Top 10](img/CapturaOrden.jpeg)
 
 ## Integrante 3: ''
 ![]()
