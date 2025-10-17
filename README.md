@@ -2,10 +2,10 @@
 El presente repositorio de GitHub almacena cada instrucción con su respectiva resolución durante las tres sesiones que se plantearon.
 
 ## Integrantes:
-- Guzmán Carrera Steven Paúl
-- Mendoza Rendón Joan Sebastián
-- Palacios Pérez Kristel Valeria
-- Rincón Hernández Daniel Efraín
+- Mendoza Rendón Joan Sebastián		(Integrante 1)
+- Guzm├ín Carrera Steven Pa├║l		(Integrante 2)
+- Palacios Pérez Kristel Valeria	(Integrante 3)
+- Rincón Hernández Daniel Efraín	(Integrante 4)
 
 ## Sección B: Creando Ramas
 ## Integrante 1: 'Título'
