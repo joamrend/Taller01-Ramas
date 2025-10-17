@@ -5,7 +5,6 @@
 package modelo;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 import java.io.*;
 
@@ -38,6 +37,11 @@ public class Cancion implements Comparable<Cancion> {
 
     public String getTitulo() {
         return titulo;
+    }
+    
+
+    public void setTitulo(String titulo) {
+        this.titulo = titulo;
     }
 
     public String getCantante() {
