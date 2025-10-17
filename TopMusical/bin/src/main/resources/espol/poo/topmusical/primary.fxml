@@ -38,7 +38,7 @@
       </VBox>
    </right>
    <top>
-      <Label text="Las mejores n-1 canciones, (n=11) ^ (pertenece a los N)" BorderPane.alignment="CENTER">
+      <Label text="RadioXYZ Top 10" BorderPane.alignment="CENTER">
          <font>
             <Font name="System Bold" size="24.0" />
          </font>
