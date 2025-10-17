@@ -3,7 +3,7 @@ El presente repositorio de GitHub almacena cada instrucción con su respectiva r
 
 ## Integrantes:
 - Mendoza Rendón Joan Sebastián		(Integrante 1)
-- Guzm├ín Carrera Steven Pa├║l		(Integrante 2)
+- Guzmán Carrera Steven Paúl		(Integrante 2)
 - Palacios Pérez Kristel Valeria	(Integrante 3)
 - Rincón Hernández Daniel Efraín	(Integrante 4)
 
