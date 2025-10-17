@@ -71,6 +71,16 @@ public class Cancion implements Comparable<Cancion> {
         return historialPos;
     }
 
+    public int getSemanasEnTop5() {
+        int contador = 0;
+        for (Integer posicion : historialPos) {
+            if (posicion <= 5) {
+                contador++;
+            }
+        }
+        return contador;
+    }
+
     public static ArrayList<Cancion> leerCanciones() {
         ArrayList<Cancion> lista = new ArrayList<>();
 
